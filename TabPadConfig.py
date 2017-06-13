@@ -30,7 +30,7 @@ button_opacity = 100
 # And vertically at 5% of total height value.
 # The second value in square brackets defines command to be executed on button press.
 # Most of the time you will just need to change key combinations (third part in square brackets).
-# You can read more about xdotool on Internet.
+# Xdotool also allows you to map mouse clicks and simulate repeating keys. You can read more about xdotool on Internet.
 # The last value defines button color (use only hex color values).
 
 # Creating your own buttons is super easy. Just append your own layout entry in dictionary below.
