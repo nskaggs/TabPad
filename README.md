@@ -7,7 +7,7 @@ TabPad is an onscreen gamepad for Linux touchscreen devices (mainly tablets).
 # Running TabPad 
     python3 TabPad.py 
 
-# Configuring TabPad 
+# Configuring TabPad  
 Edit `TabPadConfig.py` file.
 
 # Current Limitations 
