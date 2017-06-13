@@ -29,6 +29,7 @@ button_opacity = 100
 # E.g. 6,5 will postion a button horizontally at 6% of total width value.
 # And vertically at 5% of total height value.
 # The second value in square brackets defines command to be executed on button press.
+# Most of the time you will just need to change key combinations (third part in square brackets).
 # You can read more about xdotool on Internet.
 # The last value defines button color (use only hex color values).
 
