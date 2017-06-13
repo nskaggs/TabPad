@@ -14,7 +14,7 @@ TabPad is an onscreen gamepad for Linux touchscreen devices (mainly tablets).
 Edit `TabPadConfig.py` file.
 
 # TabPad is Not Transparent
-TabPad transparency depends on your compositing manager. If the compositing manager do not support transparency, you may see an opaque or a translucent background. TapPad works absolutely fine with Compiz.
+TabPad transparency depends on your compositing manager. If the compositing manager do not support transparency, you may see an opaque or a translucent background. TapPad works absolutely fine with Compiz and Kwin.
 
 # Current Limitations 
   * Diagonal movement keys are yet to be implemented.
