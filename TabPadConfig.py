@@ -20,7 +20,6 @@ button_border_radius = 25
 button_border_color = "#555555"
 
 # Opacity of buttons in percentage (100 is fully opaque).
-
 button_opacity = 100
 
 # The dictionary below defines your gamepad layout and properties.
